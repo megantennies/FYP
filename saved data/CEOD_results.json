@@ -1,0 +1,1 @@
+{"columns":["Metric","Calibrated Equal Odds"],"index":[0,1,2,3,4,5],"data":[["Balanced Accuracy",0.674342042],["Accuracy Equality",0.0447670234],["Disparate Impact",0.5916252737],["Outcome Unfairess",-0.1910083072],["Average Odds Difference",-0.2526495871],["Equal Opportunity Difference",-0.2302660754]]}
