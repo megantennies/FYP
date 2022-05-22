@@ -1,0 +1,1 @@
+{"columns":["Metric","Random Forest Classification"],"index":[0,1,2,3,4,5],"data":[["Balanced Accuracy",0.6633043977],["Accuracy Equality",-0.0892628804],["Disparate Impact",0.6749265595],["Outcome Unfairess",-0.1899114144],["Average Odds Difference",-0.2075635785],["Equal Opportunity Difference",-0.1629321383]]}
