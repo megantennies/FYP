@@ -1,1 +1,1 @@
-{"columns":["Feature","Tetrachoric Correlation"],"index":[0,1,2,3,4],"data":[["Race",0.0361565761],["Sex",-0.0093631349],["Age Category",-0.1212718618],["Prior Offences",-0.2043050352],["Charge Degree",-0.0553471005]]}
+{"columns":["Feature","Tetrachoric Correlation"],"index":[0,1,2,3,4],"data":[["Race",-0.1374958585],["Sex",0.1867916255],["Age Category",0.2261561704],["Prior Offences",0.4003948415],["Charge Degree",0.1729864788]]}
